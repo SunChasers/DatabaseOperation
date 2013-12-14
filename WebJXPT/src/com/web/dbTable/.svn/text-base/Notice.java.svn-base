@@ -1,0 +1,21 @@
+package com.web.dbTable;
+
+import java.sql.Date;
+
+public class Notice {
+  private int ID;//通知ID
+  private String notice_content;//通知内容
+  private Date notice_send_date;//通知发送日期
+  public Notice(){
+	  
+  }
+public int getID() {
+	return ID;
+}
+public String getNotice_content() {
+	return notice_content;
+}
+public Date getNotice_send_date() {
+	return notice_send_date;
+}
+}
