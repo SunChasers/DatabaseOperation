@@ -1,0 +1,13 @@
+<%@page contentType="text/html" pageEncoding="GB18030"%>
+<html>
+<head>
+<title>系统提示</title>
+<meta http-equiv="Content-Type" content="text/html;charset=GB18030">
+</head>
+<body>
+<h2>${message}</h2>
+<div class="detail">
+				<a href="WebPage/jsp/person1.jsp">返回</a>
+			</div>
+</body>
+</html>
