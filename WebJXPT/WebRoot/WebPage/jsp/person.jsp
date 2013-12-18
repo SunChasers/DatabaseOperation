@@ -133,7 +133,7 @@ System.out.print((String) session
 			</ul>
 		</div>
 	</div>
-	<div class="personcontainer">
+	<div class="container">
 		<div class="container_top"></div>
 		<%
 			if (session.getAttribute("islogin").equals("110")) {

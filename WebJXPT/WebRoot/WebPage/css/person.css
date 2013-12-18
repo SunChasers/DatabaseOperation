@@ -1,6 +1,6 @@
 .person_left {
 	width: 23%;
-	height: 850px;
+	height: 1000px;
 	float: left;
 	padding: 0px;
 	border-right: solid 1px #DCDCDC;
@@ -9,7 +9,7 @@
 
 .person_right {
 	width: 76%;
-	height: 850px;
+	height: 1000px;
 	float: left;
 	background: #FFFFFF;
 }
