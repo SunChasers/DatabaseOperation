@@ -1,0 +1,337 @@
+.person_left {
+	width: 23%;
+	height: 1000px;
+	float: left;
+	padding: 0px;
+	border-right: solid 1px #DCDCDC;
+	background:#ffffff;
+}
+
+.person_right {
+	width: 76%;
+	height: 1000px;
+	float: left;
+	background: #FFFFFF;
+}
+
+.person_select {
+	width: 100%;
+	padding: 0px;
+	fint-size: 18px;
+}
+
+.person_select_ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.person_select_ul li {
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	border-bottom: solid 1px #DCDCDC;
+	display: inline-block;
+}
+
+。p_li_1 {
+	width: 100%;
+	height: 100%;
+}
+
+。p_li_2 {
+	width: 100%;
+	height: 100%;
+}
+
+。p_li_3 {
+	width: 100%;
+	height: 100%;
+}
+
+。p_li_4 {
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
+
+。p_li_5 {
+	width: 100%;
+	height: 100%;
+}
+
+。p_li_6 {
+	width: 100%;
+	height: 100%;
+}
+
+.li_img {
+	margin-top: 14px;
+	float: right;
+	width: 20px;
+	height: 20px;
+}
+
+/*通知信息出css*/
+.tips {
+	width: 696px;;
+}
+
+.tips_ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.tips_ul li {
+	width: 100%;
+	text-align: left;
+	line-height: 30px;
+	display: inline-block;
+
+	border-bottom:1px dashed #DCDCDC;
+
+	padding:20px;
+}
+.tips_date{
+	float:right;
+}
+.tips_content {
+	float:left;
+	width: 580px;
+	margin-left:15px;
+}
+.tip_person{
+	width:100px;
+	border-right:1px dashed #DCDCDC;
+	float:left;
+}
+.tips_ul img {
+	wigth: 80px;
+	height: 80px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.tip_li_em {
+	font-style: normal;
+}
+/*个人信息*/
+.p_information {
+	width: 100%;
+	height: 100%;
+	margin-top: 20px;
+}
+
+.p_information_ul {
+	width:300px;
+	padding: 0px;
+	text-align: center;
+}
+
+.p_information_ul li {
+	height: 50px;
+	line-height: 50px;
+	display: inline-block;
+}
+
+.infor_name {
+	width: 100px;
+	height: 100%;
+	float: left;
+}
+
+.infor_value {
+	width: 200px;
+	height: 100%;
+	float: right;
+	text-align: left;
+}
+
+.homework {
+	width: 99.5%;
+	margin-left: 4px;
+	margin-top: 30px;
+}
+
+/*
+
+.homework_ul{
+	padding:0px;
+	width:100%;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 100%;
+	font-weight: bold;	
+}
+
+.homework_ul li
+{   list-style-type:none;
+	height:100px;
+	width:100%;
+	border-bottom:1px dashed #DCDCDC;
+	margin-left:0px;
+}
+
+.homework_title {
+	line-height:40px;
+	height:40px;
+	width:696px;
+	border-bottom:1px dashed #DCDCDC;
+	
+}
+
+.homework_date{
+	height:40px;
+	width:696px;
+	border-bottom:1px dashed #DCDCDC;
+	
+}
+
+.homework_commit{
+	height:40px;
+	width:696px;
+	border-bottom:1px dashed #DCDCDC;
+	
+}
+*/
+
+.homework_table {
+	width: 100%;
+	border-top: 1px solid #DCDCDC;
+	border-left: 1px solid #DCDCDC;
+}
+
+.homework_table_tip{
+	width: 100%;
+	border-top: 1px solid #DCDCDC;
+	border-left: 1px solid #DCDCDC;
+}
+
+.homework_table th {
+	border-right: 1px solid #DCDCDC;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+.homework_table td {
+	text-align: center;
+	border-right: 1px solid #DCDCDC;
+	border-bottom: 1px solid #DCDCDC;
+}
+
+
+
+.h_title {
+	width: 270px;
+	height: 100%;
+	border-right: solid 1px #DCDCDC;
+	line-height: 50px;
+	float: left;
+}
+
+.h_up_date {
+	width: 100px;
+	height: 100%;
+	border-right: solid 1px #DCDCDC;
+	line-height: 50px;
+	float: left;
+}
+
+.h_end_date {
+	width: 100px;
+	height: 100%;
+	border-right: solid 1px #DCDCDC;
+	line-height: 50px;
+	float: left;
+}
+
+.h_sub {
+	width: 100px;
+	height: 100%;
+	border-right: solid 1px #DCDCDC;
+	line-height: 50px;
+	float: left;
+}
+
+.h_look {
+	width: 100px;
+	height: 100%;
+	float: left;
+	line-height: 50px;
+}
+
+.btn_file {
+	width: 300px;
+	position: relative;
+	top: -20px;
+}
+
+.file_commit {
+	width: 100%;
+	height: 300px;
+}
+
+.file_textarea {
+	margin-right: 30px;
+}
+
+.file_show {
+	width: 100%;
+}
+
+.file_show ul {
+	width: 100%;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.file_show li {
+	width: 100%;
+	border-bottom: 1px dashed #DCDCDC;
+	padding: 5px;
+	display: inline-block;
+}
+
+.file_show img {
+	width: 20px;
+	height: 20px;
+}
+
+.em_01 {
+	margin-left: 10px;
+	font-style: normal;
+}
+
+.em_02 {
+	float: right;
+	margin-right: 10px;
+	font-style: normal;
+}
+
+.equals_name_file{
+    margin-left:140px;
+    margin-top:10px;
+    width:400px;
+	height:40px;
+	text-align:center;
+	background-color:rgb(17,17,17);
+	line-height:40px;
+	color:rgb(255,255,255);
+	border:1px solid #DCDCDC;	
+}
+/*超链接样式*/
+.person_select_ul a:link {
+	text-decoration: none;
+	color: #000000;
+}
+.person_select_ul a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+/*我的文档*/
+.workcontent{
+	width:500px;height:300px;background:#DCDCDC;margin-top:20px;border:1px solid #DCDCDC;
+}

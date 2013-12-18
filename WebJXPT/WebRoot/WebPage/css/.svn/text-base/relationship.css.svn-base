@@ -1,0 +1,72 @@
+.relation_left {
+	width: 23%;
+	height: 100%;
+	float: left;
+	padding: 0px;
+	border-right: solid 1px #DCDCDC;
+	background:#ffffff;
+}
+
+.relation_right {
+	width: 76%;
+	height: 100%;
+	float: left;
+	background: #FFFFFF;
+}
+
+.relation_select {
+	width: 100%;
+	padding: 0px;
+	fint-size: 18px;
+}
+
+.relation_select_ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.relation_select_ul li {
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+	border-bottom: solid 1px #DCDCDC;
+	display: inline-block;
+}
+
+¡£r_li1 {
+	width: 100%;
+	height: 100%;
+}
+
+¡£r_li2 {
+	width: 100%;
+	height: 100%;
+}
+.tips {
+	width: 696px;;
+}
+
+.tips_ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.tips_ul li {
+	width: 100%;
+	text-align: left;
+	line-height: 30px;
+	display: inline-block;
+
+	border-bottom:1px solid #DCDCDC;
+
+	padding:20px;
+}
+.tips_ul img {
+	wigth: 33px;
+	height: 33px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}

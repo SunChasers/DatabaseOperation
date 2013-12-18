@@ -1,0 +1,36 @@
+table.location{
+		height:39px;
+		width:92%;
+		border:0px;
+}
+table.loca{
+		background:url(../image/head_bg.gif) repeat-x left;
+		height:39px;
+		float:left;
+		border:0px;
+}
+table.loca .title{
+		font-family:"ºÚÌå", sans-serif;
+		font-size:16px;
+		color:#B19B41;
+		letter-spacing:2px;
+		word-spacing:2px;
+		padding-top:5px;
+}
+img
+{border:0}
+.needstar{
+	color:#c00;
+}
+table.text{
+		width:100%;
+		height:100%;
+		float:left;
+		margin-top:10px;
+		margin-left: 50px;
+}
+table.text td.text{
+		background-color:#EEE;
+		padding:10px 15px 10px 15px;
+        letter-spacing:0px;
+ }

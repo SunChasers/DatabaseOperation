@@ -1,0 +1,46 @@
+package com.web.server;
+
+import java.sql.SQLException;
+
+import java.util.List;
+import java.util.ArrayList;
+import java.util.List;
+import com.web.dbDAO.ForumsDAO;
+import com.web.dbDAO.StudentDAO;
+import com.web.dbTable.Student;
+import com.web.dbTable.Forums;
+
+
+public class Main {
+
+	/**
+	 * @param args
+	 * @throws SQLException 
+	 * @throws ClassNotFoundException 
+	 */
+	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+		// TODO Auto-generated method stub
+//		StudentDAO student=new StudentDAO();
+//		String password=student.query("ÕÔ³¿êØ");
+//		System.out.print(password);
+
+		
+//		StudentDAO student=new StudentDAO();
+//		List<Student> list=student.queryInfor("ÕÔ³¿êØ");
+//		for(Student s:list){
+//			System.out.print(s.getSno());
+//			System.out.print(s.getName());
+//			System.out.print(s.getClasses());
+//			System.out.print(s.getPhone());
+//			System.out.print(s.getMailbox());
+//		}
+//		
+
+//		List<Forums> forumslist =new ArrayList<Forums>();						
+//		ForumsDAO forumsdao=new ForumsDAO();
+//		forumslist=forumsdao.query();
+//		System.out.print("ds");
+
+	}
+
+}

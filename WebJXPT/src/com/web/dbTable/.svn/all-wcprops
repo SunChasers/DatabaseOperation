@@ -1,25 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/svn/WebJXPT/!svn/ver/20/src/com/web/dbTable
+/svn/WebJXPT/!svn/ver/31/src/com/web/dbTable
 END
 Notice.java
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/svn/WebJXPT/!svn/ver/11/src/com/web/dbTable/Notice.java
+/svn/WebJXPT/!svn/ver/24/src/com/web/dbTable/Notice.java
 END
 Work.java
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/svn/WebJXPT/!svn/ver/10/src/com/web/dbTable/Work.java
+/svn/WebJXPT/!svn/ver/26/src/com/web/dbTable/Work.java
 END
 Forums_request.java
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svn/WebJXPT/!svn/ver/14/src/com/web/dbTable/Forums_request.java
+/svn/WebJXPT/!svn/ver/30/src/com/web/dbTable/Forums_request.java
 END
 Student.java
 K 25
@@ -27,11 +27,17 @@ svn:wc:ra_dav:version-url
 V 57
 /svn/WebJXPT/!svn/ver/20/src/com/web/dbTable/Student.java
 END
+Book.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/WebJXPT/!svn/ver/30/src/com/web/dbTable/Book.java
+END
 Example.java
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/svn/WebJXPT/!svn/ver/20/src/com/web/dbTable/Example.java
+/svn/WebJXPT/!svn/ver/31/src/com/web/dbTable/Example.java
 END
 Forums.java
 K 25
@@ -43,5 +49,5 @@ RelationCourse.java
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svn/WebJXPT/!svn/ver/10/src/com/web/dbTable/RelationCourse.java
+/svn/WebJXPT/!svn/ver/30/src/com/web/dbTable/RelationCourse.java
 END
