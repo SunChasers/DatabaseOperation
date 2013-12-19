@@ -1,0 +1,48 @@
+.tips {
+	width: 100%;
+}
+
+.tips_ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.tips_ul li {
+	width: 100%;
+	text-align: left;
+	line-height: 30px;
+	display: inline-block;
+
+	border-bottom:1px dashed #DCDCDC;
+
+	padding:20px;
+}
+.tips_date{
+	float:right;
+}
+.tips_content {
+	height:90px;
+	line-height:90px;
+	margin-left:15px;
+}
+.tip_forums{
+	width:100px;
+	height:100px;
+	border-right:1px dashed #DCDCDC;
+	float:left;
+}
+.tips_ul img {
+	wigth: 80px;
+	height: 80px;
+	float: left;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.tip_li_em {
+	font-style: normal;
+}
+.container_top{
+	line-height: 50px;
+}

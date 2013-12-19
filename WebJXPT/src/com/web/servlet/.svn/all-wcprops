@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/WebJXPT/!svn/ver/33/src/com/web/servlet
+END
+setNoticeAServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/WebJXPT/!svn/ver/26/src/com/web/servlet/setNoticeAServlet.java
+END
+SetBookServerlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/WebJXPT/!svn/ver/32/src/com/web/servlet/SetBookServerlet.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/WebJXPT/!svn/ver/26/src/com/web/servlet/Text.java
+END
+updateServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/WebJXPT/!svn/ver/33/src/com/web/servlet/updateServlet.java
+END
+LoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/WebJXPT/!svn/ver/30/src/com/web/servlet/LoginServlet.java
+END
+SetCourseServerlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/WebJXPT/!svn/ver/32/src/com/web/servlet/SetCourseServerlet.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/WebJXPT/!svn/ver/28/src/com/web/servlet/Search.java
+END
+WorkServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/WebJXPT/!svn/ver/26/src/com/web/servlet/WorkServlet.java
+END
+SetWorkServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/WebJXPT/!svn/ver/26/src/com/web/servlet/SetWorkServlet.java
+END
+RegisterServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/WebJXPT/!svn/ver/20/src/com/web/servlet/RegisterServlet.java
+END
+Upload.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/WebJXPT/!svn/ver/33/src/com/web/servlet/Upload.java
+END

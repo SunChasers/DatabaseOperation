@@ -1,0 +1,94 @@
+table.search{
+
+    margin-top:20px;
+    margin-bottom:20px;
+	width:32%;
+	float: right;
+}
+.searchdiv{
+	text-align: center;
+}
+table{
+	font-family:"宋体", sans-serif;
+	font-size:13px;
+	color:#000;
+	word-spacing:1px;
+}
+table.search input{
+	border:1px solid #DEB960;
+	background-color:#FFF;
+	letter-spacing:2px;
+	height:17px;
+}
+
+input.input{
+	border:1px solid #DEB960;
+	background-color:#FFF;
+	height:16px;
+    font:12px Arial;
+}
+input.button{
+	font-size: 12px;
+	text-decoration: none;
+	letter-spacing: 2px;
+	background-image:  url(../image/button.gif);
+	height: 18px;
+	border: 1px solid #D18C0C;
+	background-repeat: repeat-x;
+	font-family: "宋体",sans-serif;
+	color: #333333;
+	margin-top:2px;
+    overflow:visible;
+    padding:4px 10px 0 10px;
+    line-height:90%;
+}
+button.button{
+	font-size: 12px;
+	text-decoration: none;
+	letter-spacing: 2px;
+	background-image:  url(../image/button.gif);
+	height: 18px;
+	border: 1px solid #D18C0C;
+	background-repeat: repeat-x;
+	font-family: "宋体",sans-serif;
+	color: #333333;
+	margin-top:2px;
+    overflow:visible;
+    padding:4px 10px 0 10px;
+    line-height:90%;
+}
+table.infotable_hr{
+		margin:0 auto;
+		border-bottom:1px solid #fff;	
+	    width:720px;
+	}
+	
+table.infotable_hr th{
+		border-right:1px solid #fff;
+		border-bottom:2px solid #FFDD75;
+		text-align:center;
+		background-color:#AEAEAE;
+		color:#FFF;
+}
+	
+th{
+	height:50px;
+	font-weight:normal;
+}
+table.infotable_hr td{
+	    height:50px;
+	    text-align:center;
+		border-right:1px solid #fff;
+		border-top:1px solid #fff;
+		padding-left:5px;
+		background-color:#EBEBEB;
+	}
+.textint{
+	 background-image:url("WebPage/img/backg.png");
+	 width:720px;
+	 height:50px;
+	 float:right;
+	 font-family: "宋体",sans-serif;
+	 text-align: center;
+	 margin-top: 10px;
+}

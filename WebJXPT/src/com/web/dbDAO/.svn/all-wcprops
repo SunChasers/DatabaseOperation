@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/WebJXPT/!svn/ver/33/src/com/web/dbDAO
+END
+ForumsDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/WebJXPT/!svn/ver/30/src/com/web/dbDAO/ForumsDAO.java
+END
+Forums_requestDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/WebJXPT/!svn/ver/30/src/com/web/dbDAO/Forums_requestDAO.java
+END
+RelationCourseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/WebJXPT/!svn/ver/32/src/com/web/dbDAO/RelationCourseDAO.java
+END
+NoticeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/WebJXPT/!svn/ver/26/src/com/web/dbDAO/NoticeDAO.java
+END
+BookDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/WebJXPT/!svn/ver/32/src/com/web/dbDAO/BookDAO.java
+END
+ExampleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/WebJXPT/!svn/ver/33/src/com/web/dbDAO/ExampleDAO.java
+END
+StudentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/WebJXPT/!svn/ver/26/src/com/web/dbDAO/StudentDAO.java
+END
+WorkDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/WebJXPT/!svn/ver/26/src/com/web/dbDAO/WorkDAO.java
+END
